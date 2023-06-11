@@ -1,9 +1,20 @@
 {
-"videoSeries": [
-  {
-  "PgvU-elzJvg",
-  "WhuYgcOEzK8&",
-  "zyr0Z696Wak&",
-  "Ak11cQ7kX1Q&&"
-  },
-]
+  "videoSeries": [
+    {
+      "id": 1,
+      "videoId": "PgvU-elzJvg"
+    },
+    {
+      "id": 2,
+      "videoId": "WhuYgcOEzK8"
+    },
+    {
+      "id": 3,
+      "videoId": "zyr0Z696Wak"
+    },
+    {
+      "id": 4,
+      "videoId": "Ak11cQ7kX1Q"
+    }
+  ]
+}
